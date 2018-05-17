@@ -11,23 +11,21 @@ Em uma primeira análise essa informação pode não parecer tão interessante, 
 
 É o interpretador de JavaScript open source implementado pelo Google em C++ e utilizado pelo Chrome. O que sem dúvidas gera uma grande expectativa em relação ao desempenho do Node.js.
 
-## Download
-
-<https://nodejs.org/en/>  
-
-<https://code.visualstudio.com/>
-
 ## Aulas
 ---
-[Aula 1](aula1/aula1.md) (22/05/2018)
+[Aula 1](aula1/AULA1.md) (22/05/2018)
 
 > Tópicos Abordados
 * Montando ambiente
-* Tipos de atributos
-* Condicionais
-* Funções
+* Conhecendo um pouco sobre JavaScript
 * Palavras Reservadas 
-
+* Objetos, Propriedades e Métodos
+* Regra de Ouro
+* Funções
+* Operadores
+* Operadores Lógicos
+* Comparação
+* Condição Ternária 
 ---
 
 Aula 2
