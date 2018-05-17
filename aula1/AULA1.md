@@ -17,9 +17,9 @@ Windows: <https://github.com/coreybutler/nvm-windows>
 
 ## Conhecendo um pouco sobre JavaScript
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/1200px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg" alt="w3tec" width="200" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="w3tec" width="200" />
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/1200px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg" width="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200" /></p>
 
 
 `JavaScript` foi inventado por `Brendan Eich` em 1995.
