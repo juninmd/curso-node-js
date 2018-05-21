@@ -20,35 +20,35 @@ Em uma primeira análise essa informação pode não parecer tão interessante, 
 * Conhecendo um pouco sobre JavaScript
 * Palavras Reservadas 
 * Objetos, Propriedades e Métodos
-* Regra de Ouro
+* Regra de Ouro (EcmaScript 6)
 * Funções
 * Operadores
 * Operadores Lógicos
 * Comparação
 * Condição Ternária 
+* Callback
+* Promises
+* Tratativas de erro
 ---
 
 Aula 2
 > Tópicos Abordados
-* Callback
-* Promises
-* Tratativas de erro
 * Conhecendo o npm
-
+* Diferença entre projeto local/global
+* Trabalhando com variáveis de ambiente [dotEnv]
+* Criando a primeira API com express
+* Entendendo como utilizar rest (verbos [get/post/put/delete/path])
+* Utilizando Middlewares
 ---
 
 Aula 3
 > Tópicos Abordados
-* Criando a primeira API com express
-* Entendendo como utilizar rest (verbos [get/post/put, delete])
-* Utilizando Middlewares
-
+* Fazendo o primeiro crud com mysql
+* Subindo no Teresa
 ---
 
 Aula 4
 > Tópicos Abordados
-* Fazendo o primeiro crud
-* Subindo no Teresa
 * Criando pacote no npm
 
 ---
