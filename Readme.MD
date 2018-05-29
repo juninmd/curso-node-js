@@ -27,12 +27,12 @@ Em uma primeira análise essa informação pode não parecer tão interessante, 
 * Comparação
 * Condição Ternária 
 * Callback
-* Promises
-* Tratativas de erro
 ---
 
 Aula 2
 > Tópicos Abordados
+* Promises
+* Tratativas de erro
 * Conhecendo o npm
 * Diferença entre projeto local/global
 * Trabalhando com variáveis de ambiente [dotEnv]
