@@ -31,7 +31,7 @@ Em uma primeira análise essa informação pode não parecer tão interessante, 
 
 Aula 2
 > Tópicos Abordados
-* Promises
+
 * Tratativas de erro
 * Conhecendo o npm
 * Diferença entre projeto local/global
@@ -43,6 +43,9 @@ Aula 2
 
 Aula 3
 > Tópicos Abordados
+* Callbacks
+* Promises
+* Promises com async/await
 * Iniciando o primeiro crud com mysql
 ---
 
