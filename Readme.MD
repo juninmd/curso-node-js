@@ -43,12 +43,11 @@ Aula 2
 
 Aula 3
 > Tópicos Abordados
-* Fazendo o primeiro crud com mysql
-* Subindo no Teresa
+* Iniciando o primeiro crud com mysql
 ---
 
 Aula 4
 > Tópicos Abordados
-* Criando pacote no npm
+* Finalizando o crud com mysql
 
 ---
