@@ -1,0 +1,20 @@
+version: 2
+updates:
+  # Aulas com projeto Node (não há package.json na raiz do repositório)
+  - package-ecosystem: "npm"
+    directory: "/aula-02/aula-2"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/aula-03/api"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/aula-04"
+    schedule:
+      interval: "weekly"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
