@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^2.4.0",
     "consign": "^0.2.0",
     "cors": "^2.8.6",
     "express": "^5.3.0",
